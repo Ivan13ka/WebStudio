@@ -1,0 +1,38 @@
+a {
+    font-size: 30px;
+}
+
+nav a{
+    font-size: 20px;
+}
+
+.logo{
+    background-color: blue;
+}
+
+nav{
+    background-color: aquamarine;
+}
+
+.submenu{
+    background-color: azure;
+}
+
+.nav-menu li, .nav-menu li:visited {
+    color: green;
+}
+
+.nav-menu-item>a{
+    color: green;
+}
+
+.submenu a{
+    background-color: white ;
+    text-decoration: none;
+}
+
+.nav-submenu-item:hover {
+    background-color: rgb(241, 34, 68);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}

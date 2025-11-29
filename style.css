@@ -1,38 +1,9 @@
-a {
-    font-size: 30px;
+body {
+   font-family: "Roboto", sans-serif;
+   font-weight: 400;
 }
 
-nav a{
-    font-size: 20px;
-}
-
-.logo{
-    background-color: blue;
-}
-
-nav{
-    background-color: aquamarine;
-}
-
-.submenu{
-    background-color: azure;
-}
-
-.nav-menu li, .nav-menu li:visited {
-    color: green;
-}
-
-.nav-menu-item>a{
-    color: green;
-}
-
-.submenu a{
-    background-color: white ;
-    text-decoration: none;
-}
-
-.nav-submenu-item:hover {
-    background-color: rgb(241, 34, 68);
-    color: rgb(255, 255, 255);
-    font-weight: bold;
+.logo {
+    font-family: "Raleway", sans-serif;
+    font-weight: 700;
 }

@@ -1,3 +1,15 @@
+:root {
+    --grey-color: #757575;
+    --black-color: #212121;
+    --white-color: #FFFFFF;
+    --blue-color: #2196F3;
+    --darkblack-color: #000000;
+    --darkgrey-color: #2F303A;
+    --lightgrey-color: #ECECEC;
+    --white2-color: #F5F4FA;
+}
+
+
 body {
    font-family: "Roboto", sans-serif;
    font-weight: 400;
